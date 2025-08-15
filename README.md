@@ -12,6 +12,8 @@ A simple Java console-based quiz application that asks the user multiple-choice 
 - Shows correct answer if the user is wrong
 - Calculates and displays total score at the end
 
+## Screenshot
+![quiz](https://github.com/Dharanikpdb-007/Task-08/blob/6ddb44df6b7c424ea3c533c00dda0ebb764c79e5/Screenshot%20(3).png)
 ## Technologies Used
 - Java
 - Scanner for input handling
